@@ -22,4 +22,4 @@
 | :------------: | :------------: |
 | Nombre  |  Tarea 5 Stateful Widget en Flutter con uso de imagenes |
 | Descripción  | Flutter cuenta con el uso de widgets stateless o stateful, en esta práctica en particular vemos el uso de los stateful widget, para poder comprender mas el tema se realizó otra aplicación de Stateful Widgets con uso de imagenes que se puedan cambiar de acorde a las pulsaciones del boton situado debajo de las mismas imagenes dinamicas |
-|  Fecha de Carga | 06/09/23  |
+|  Fecha de Carga | 21/09/23  |
