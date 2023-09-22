@@ -1,16 +1,25 @@
-# tarea_05_200906
+# DDI_Tarea_05_200906
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Mateo Maldonado Tolentino 
+## 10A
+### Desarrollo Móvil Integral
+&nbsp;
+&nbsp;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)]([https://postimg.cc/MvzwBvyZ](https://github.com/MattMT/DMI_src/blob/main/t_05.jpeg))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Tarea 5 Stateful Widget en Flutter con uso de imagenes |
+| Descripción  | Flutter cuenta con el uso de widgets stateless o stateful, en esta práctica en particular vemos el uso de los stateful widget, para poder comprender mas el tema se realizó otra aplicación de Stateful Widgets con uso de imagenes que se puedan cambiar de acorde a las pulsaciones del boton situado debako de las mismas imagenes dinamicas |
+|  Fecha de Carga | 06/09/23  |
