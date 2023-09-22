@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 
-[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)]([https://postimg.cc/MvzwBvyZ](https://github.com/MattMT/DMI_src/blob/main/t_05.jpeg))
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://github.com/MattMT/DMI_src/blob/main/t_05.jpeg)]((https://github.com/MattMT/DMI_src/blob/main/t_05.jpeg))
 
 &nbsp;
 &nbsp;
